@@ -1,0 +1,36 @@
+.baner
+{
+width: 100%;
+height: 60px;
+background-color: #45517d;
+text-align: right;
+color: white;
+size: 120%; 
+}
+.panellewy
+{
+background-color: #61b2ec;
+width: 40%;
+height: 500px;
+float: left;
+}
+.panelprawy
+{
+    background-color: #8ec9f2;
+    width: 60%;
+    height: 500px;
+    float: right;
+}
+.stopka
+{
+width: 100%;
+background-color: #45517d;
+text-align: center;
+color: white;
+size: 120%; 
+}
+.stopka img
+{
+    width: 50px;
+    height: 50px;
+} 
